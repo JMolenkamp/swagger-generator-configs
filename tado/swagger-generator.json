@@ -1,6 +1,6 @@
 {
   "specURL" : "https://raw.githubusercontent.com/JMolenkamp/swagger-generator-configs/main/tado/tado-api.yaml",
-  "lang" : "java",
+  "lang" : "csharp",
   "type" : "CLIENT",
   "codegenVersion" : "V3"
 }
